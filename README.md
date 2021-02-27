@@ -1,4 +1,4 @@
 # API
 
-[Link to the API](https://thierno953.github.io/API/.)
+[Link to the API](https://https://github.com/thierno953/API/blob/main/api.json/.) 
 
